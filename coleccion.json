@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "edad": 25,
+    "ciudad": "Medellín",
+    "activo": true,
+    "direccion": {
+      "barrio": "Laureles",
+      "codigo_postal": 50031
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos",
+    "edad": 31,
+    "ciudad": "Bogotá",
+    "activo": false,
+    "direccion": {
+      "barrio": "Chapinero",
+      "codigo_postal": 110231
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Lucía",
+    "edad": 22,
+    "ciudad": "Medellín",
+    "activo": true,
+    "direccion": {
+      "barrio": "El Poblado",
+      "codigo_postal": 50021
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Tomás",
+    "edad": 40,
+    "ciudad": "Cali",
+    "activo": true,
+    "direccion": {
+      "barrio": "San Antonio",
+      "codigo_postal": 760001
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Sofía",
+    "edad": 18,
+    "ciudad": "Bogotá",
+    "activo": null,
+    "direccion": {
+      "barrio": "Usaquén",
+      "codigo_postal": 110111
+    }
+  }
+]
