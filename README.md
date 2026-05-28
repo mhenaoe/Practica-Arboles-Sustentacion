@@ -82,4 +82,5 @@ collection.to_json()
 ## Autores
 
 Jerónimo Pérez Macías
+
 Mariana Henao Echeverri
