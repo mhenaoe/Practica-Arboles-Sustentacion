@@ -1,1 +1,0 @@
-from coleccion import DocumentCollection
