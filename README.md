@@ -1,4 +1,4 @@
-# Mini Motor Documental — Árboles y Listas Enlazadas
+# DocuTree — Proyecto
 
 Proyecto integrador EDD - 20261
 
@@ -79,6 +79,7 @@ collection.to_json()
 
 ---
 
-## Autora
+## Autores
 
+Jerónimo Pérez Macías
 Mariana Henao Echeverri
